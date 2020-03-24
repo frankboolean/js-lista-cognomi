@@ -1,0 +1,20 @@
+h2{
+  list-style-type: none;
+  margin-left: 150px;
+  font-family: 'Liu Jian Mao Cao', cursive;
+}
+
+h2 li{
+  margin: 20px;
+}
+
+body{
+  background-image: url(img/compleanno.jpg);
+}
+
+
+h1{
+  margin-left: 130px;
+  color: red;
+  font-family: 'Libre Baskerville', serif;
+}
